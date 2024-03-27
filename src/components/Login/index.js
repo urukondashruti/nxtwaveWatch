@@ -90,7 +90,7 @@ export default class Login extends Component {
       <LoginAppContainer>
         <LoginCardForm onSubmit={this.validateCredentials}>
           <Logo
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmXHxh1JjCLlrZTPtYz7a7Y01Yyy-9dV6vYA&usqp=CAU"
+            src="https://assets.ccbp.in/frontend/react-js/nxt-watch-logo-light-theme-img.png"
             alt="website logo"
           />
           <Label htmlFor="username" theme="true">
